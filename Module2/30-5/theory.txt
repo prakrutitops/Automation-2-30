@@ -1,0 +1,15 @@
+OOP:Object Oriented Programming
+
+Features of OOP
+1)object:
+2)class
+3)abstraction
+4)encapsulation
+5)inheritance
+6)polymorphism
+
+constructor:method having a same as a classname
+1)default
+2)parameterized
+3)copy
+
