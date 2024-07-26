@@ -1,0 +1,2 @@
+driver.findElement(By.cssSelector(".btn-success")).click();
+driver.findElement(By.cssSelector("#orderModal span")).click();
