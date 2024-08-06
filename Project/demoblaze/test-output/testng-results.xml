@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-06T12:53:36 IST" name="Default suite" finished-at="2024-08-06T12:53:53 IST" duration-ms="16558">
+    <groups>
+    </groups>
+    <test started-at="2024-08-06T12:53:36 IST" name="Default test" finished-at="2024-08-06T12:53:53 IST" duration-ms="16558">
+      <class name="com.screens.HomePage">
+        <test-method signature="a1homepageopen()[pri:0, instance:com.screens.HomePage@121314f7]" started-at="2024-08-06T12:53:36 IST" name="a1homepageopen" finished-at="2024-08-06T12:53:43 IST" duration-ms="6792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a1homepageopen -->
+        <test-method signature="a2logocheck()[pri:0, instance:com.screens.HomePage@121314f7]" started-at="2024-08-06T12:53:43 IST" name="a2logocheck" finished-at="2024-08-06T12:53:44 IST" duration-ms="504" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a2logocheck -->
+        <test-method signature="a3headeroptionsclick()[pri:0, instance:com.screens.HomePage@121314f7]" started-at="2024-08-06T12:53:44 IST" name="a3headeroptionsclick" finished-at="2024-08-06T12:53:53 IST" duration-ms="9191" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- a3headeroptionsclick -->
+      </class> <!-- com.screens.HomePage -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
