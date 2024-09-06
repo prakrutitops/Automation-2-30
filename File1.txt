@@ -1,0 +1,10 @@
+Android Studio
+JDK
+Node
+appium inspector
+Appium Server GUI
+
+POST->send(insert)
+GET->view
+PUT->Update
+DELETE->delete
