@@ -1,0 +1,21 @@
+1)Appium Inspector
+https://github.com/appium/appium-inspector/releases
+Appium-Inspector-2024.8.2-win-x64.exe
+
+2)Appium GUI Server
+https://github.com/appium/appium-desktop/releases
+Appium-Server-GUI-windows-1.22.3-4.exe
+
+3)Android Studio
+https://developer.android.com/studio?gad_source=1&gclid=EAIaIQobChMI5rmUg6-1iAMVMKlmAh1aBzxjEAAYASAAEgLUlfD_BwE&gclsrc=aw.ds
+
+4)JDk
+CMD: java -version
+
+5)Node
+https://nodejs.org/en/download/prebuilt-installer
+
+
+
+
+
